@@ -1,7 +1,14 @@
 h1{
     text-align: center;
+    font: "Google Sans";
 }
 
 h2{
-    text-align:center
+    text-align:center;
 }
+
+.rotate-center {
+	-webkit-animation: rotate-center 0.6s ease-in-out both;
+	        animation: rotate-center 0.6s ease-in-out both;
+}
+
